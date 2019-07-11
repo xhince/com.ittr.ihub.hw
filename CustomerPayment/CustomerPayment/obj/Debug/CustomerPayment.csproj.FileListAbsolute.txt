@@ -1,0 +1,7 @@
+C:\Users\tr30106\source\repos\CustomerPayment\CustomerPayment\bin\Debug\CustomerPayment.exe.config
+C:\Users\tr30106\source\repos\CustomerPayment\CustomerPayment\bin\Debug\CustomerPayment.exe
+C:\Users\tr30106\source\repos\CustomerPayment\CustomerPayment\bin\Debug\CustomerPayment.pdb
+C:\Users\tr30106\source\repos\CustomerPayment\CustomerPayment\obj\Debug\CustomerPayment.csprojAssemblyReference.cache
+C:\Users\tr30106\source\repos\CustomerPayment\CustomerPayment\obj\Debug\CustomerPayment.csproj.CoreCompileInputs.cache
+C:\Users\tr30106\source\repos\CustomerPayment\CustomerPayment\obj\Debug\CustomerPayment.exe
+C:\Users\tr30106\source\repos\CustomerPayment\CustomerPayment\obj\Debug\CustomerPayment.pdb
