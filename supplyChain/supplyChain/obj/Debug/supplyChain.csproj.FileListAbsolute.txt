@@ -1,0 +1,7 @@
+C:\Users\tr30106\source\repos\supplyChain\supplyChain\bin\Debug\supplyChain.exe.config
+C:\Users\tr30106\source\repos\supplyChain\supplyChain\bin\Debug\supplyChain.exe
+C:\Users\tr30106\source\repos\supplyChain\supplyChain\bin\Debug\supplyChain.pdb
+C:\Users\tr30106\source\repos\supplyChain\supplyChain\obj\Debug\supplyChain.csprojAssemblyReference.cache
+C:\Users\tr30106\source\repos\supplyChain\supplyChain\obj\Debug\supplyChain.csproj.CoreCompileInputs.cache
+C:\Users\tr30106\source\repos\supplyChain\supplyChain\obj\Debug\supplyChain.exe
+C:\Users\tr30106\source\repos\supplyChain\supplyChain\obj\Debug\supplyChain.pdb
